@@ -1,0 +1,52 @@
+*{
+    text-align: center;
+    
+    background:url(./tforgot.jpg);
+    background-size: cover ;
+    background-position: center;
+    font-family: sans-serif;
+    border-color:black;
+    border: tomato;
+}
+.one{
+    height: 40px;
+    width: 40px;
+    font-size: 10px;
+   background-color: beige;
+}
+.two{
+    height: 40px;
+    width: 40px;
+    font-size: 10px;
+   background-color: beige;
+   border-color: black;
+
+}
+.three{
+    height: 40px;
+    width: 40px;
+    font-size: 10px;
+   background-color: beige;
+}
+.four{
+    height: 40px;
+    width: 40px;
+    font-size: 10px;
+   background-color: blue;
+}
+.in{
+    height: 50px;
+    width: 300px;
+    background-color:blue;
+}
+.sub{
+    height: 40px;
+    width: 70px;
+    border-radius: 50px ;
+    background-color: burlywood;
+}
+.check{
+    font-weight: 30px;
+    font-size: 13px;
+    font-family: georg;
+}

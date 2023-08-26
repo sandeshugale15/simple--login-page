@@ -1,0 +1,73 @@
+
+.sandy{
+    text-align: center;
+    height: 400;
+    width: 320;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-width: 100px;
+    border-width: 30pxS;
+     left: 50%;
+    border-style: solid;
+    border-color:lightpink;
+}
+body{
+    text-align: center;
+    
+    background:url(../new\ img.jpg);
+    background-size: cover ;
+    background-position: center;
+    font-family: sans-serif;
+    border-color:black;
+    border: tomato;
+}
+.lol{
+   
+    text-align: center;
+    border-color: brown;
+    border-radius: 50% ;
+}
+.username{
+    font-size: 15px;
+    font-family: monospace;
+}
+.password{
+    font-size: 15px;
+    font-family: monospace;
+}
+.login{
+    height: 30px;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color:lightskyblue;
+   
+    
+}
+.signin {
+    height: 30px;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+}
+.sandy input{
+    width: 200px;
+    margin-bottom: 1px;
+}
+.sandy input[type="text"],input[type="password"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 20px;
+
+}
+#Forgot{
+   font-size: medium; 
+   font-family: monospace;
+}
+#new{
+font-size: medium;
+font-family: monospace;
+}
